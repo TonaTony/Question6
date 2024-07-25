@@ -39,6 +39,10 @@ td {
         flex-direction: column;
     }
 
+    table {
+    width: 80%;
+    }
+
 }
 
 @media (max-width: 520px) {
